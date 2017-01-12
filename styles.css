@@ -1,0 +1,16 @@
+h1 {
+	color: #5cf442;
+}
+h2 {
+	color: #42f4f1;
+}
+p {
+	color: #f44444;
+	transition: font-size 0.2s ease-in-out;
+}
+body {
+	background-color: #000000;
+}
+p:hover {
+	font-size: 20pt;
+}
