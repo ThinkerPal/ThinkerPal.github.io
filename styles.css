@@ -10,7 +10,7 @@ p {
 	transition: font-size 0.2s ease-in-out;
 }
 body {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 p:hover {
 	font-size: 20pt;
